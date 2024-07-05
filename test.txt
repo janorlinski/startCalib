@@ -2,7 +2,6 @@ Athira 	Sreejith 	Bergische Universität Wuppertal(BUW)
 Behruz 	Kardan 	Goethe-University Frankfurt (IKF)
 Christian 	Müntz 	Goethe-Universität Frankfurt (UF-IKF)
 Diana 	Pawłowska-Szymańska 	Warsaw University of Technology
-Elisabeth 	van Engelen 	Goethe-University Frankfurt
 Hanna 	Zbroszczyk 	Warsaw University of Technology (WUT), Faculty of Physics
 Jan 	Michel 	Goethe-Universität Frankfurt
 Jan 	Orlinski 	University of Warsaw(WU)
@@ -10,6 +9,7 @@ Jürgen 	Eschke 	FAIR GmbH
 Jędrzej 	Kołaś 	Warsaw University of Technology(WUT)
 Karin 	Schönning 	Uppsala University(IKP-U)
 Karina 	Scharmann 	Justus-Liebig-Universität Gießen
+Jan Kowalski Uniwersytet Opolski
 Konrad 	Sumara 	Jagiellonian University
 Krzysztof 	Piasecki 	University of Warsaw (UW)
 Krzysztof 	Prościński 	Jagiellonian University
