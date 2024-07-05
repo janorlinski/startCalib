@@ -1,0 +1,23 @@
+Athira 	Sreejith 	Bergische Universität Wuppertal(BUW)
+Behruz 	Kardan 	Goethe-University Frankfurt (IKF)
+Christian 	Müntz 	Goethe-Universität Frankfurt (UF-IKF)
+Diana 	Pawłowska-Szymańska 	Warsaw University of Technology
+Elisabeth 	van Engelen 	Goethe-University Frankfurt
+Hanna 	Zbroszczyk 	Warsaw University of Technology (WUT), Faculty of Physics
+Jan 	Michel 	Goethe-Universität Frankfurt
+Jan 	Orlinski 	University of Warsaw(WU)
+Jürgen 	Eschke 	FAIR GmbH
+Jędrzej 	Kołaś 	Warsaw University of Technology(WUT)
+Karin 	Schönning 	Uppsala University(IKP-U)
+Karina 	Scharmann 	Justus-Liebig-Universität Gießen
+Konrad 	Sumara 	Jagiellonian University
+Krzysztof 	Piasecki 	University of Warsaw (UW)
+Krzysztof 	Prościński 	Jagiellonian University
+Malgorzata 	Gumberidze 	GSI Helmholtzzentrum für Schwerionenforschung GmbH(GSI)
+Marvin 	Nabroth 	
+Michael 	Traxler 	GSI Helmholtzzentrum für Schwerionenforschung GmbH(GSI)
+Michal 	Predota 	Warsaw University of technology
+Olga 	Pechenova 	GSI Helmholtzzentrum für Schwerionenforschung GmbH(GSI)
+Peter 	Zumbruch 	GSI Helmholtzzentrum für Schwerionenforschung GmbH(GSI)
+Simon 	Spies 	Goethe-University Frankfurt
+Vladimir 	Pechenov 	GSI Helmholtzzentrum für Schwerionenforschung GmbH(GSI) 
